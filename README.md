@@ -6,3 +6,5 @@ python+deepseek实现论文的简易检测
 ## 检测结果如图所示：
 ![image](https://github.com/user-attachments/assets/a1dbdd91-5acb-4a16-896a-a0c3df500b18)
 
+### 禁止商用！！！应该也不会有人看上🙂
+
