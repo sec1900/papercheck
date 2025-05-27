@@ -1,7 +1,6 @@
 # papercheck  
 python+deepseek实现论文的简易检测  
 ## 需要你自行购买deepseek的token  
-## 脚本还没上传，别急，先占个坑  
 ## 所有内容会由文本进行保存  
 ## 支持分段落检测  
 ## 支持全文及框架检测  
